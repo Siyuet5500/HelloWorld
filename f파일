@@ -3,3 +3,6 @@
 
 git config --global user.name "신대환"
 git config --global user.email "eoghks5064@gmail.com"
+
+
+# 노션과 깃을 왔다갔다 하면서 따로 정리하기 보단, 한군데에 모아서 정리하는 게 더 낫고 효율적일 수 있음.
