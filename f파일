@@ -1,0 +1,5 @@
+복습용
+
+
+git config --global user.name "신대환"
+git config --global user.email "eoghks5064@gmail.com"
